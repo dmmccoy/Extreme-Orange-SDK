@@ -4,5 +4,5 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: Extreme Orange SDK
-  host: Extreme Orange SDK
+  host: https://eosdk.mybluemix.net/
   disk_quota: 1024M
