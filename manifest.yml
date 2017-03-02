@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: ExtremeOrangeSDK
-  host: ExtremeOrangeSDK
+  name: EOSDK
+  host: EOSDK
   disk_quota: 1024M
