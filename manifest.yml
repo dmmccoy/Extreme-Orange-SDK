@@ -1,0 +1,12 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: Extreme Orange SDK
+  host: EOSDK
+  disk_quota: 1024M
+  services:
+  - Extreme Orange Weather API
+  - availability-monitoring-auto
+  - Cloudant NoSQL DB-lm
