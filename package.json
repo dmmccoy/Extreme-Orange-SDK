@@ -9,7 +9,7 @@
     "cfenv": "1.0.x",
     "express": "4.13.x",
 	"request": "2.79.0",
-    "lodash": "^4.17.4"
+    "lodash": "1.x.x"
   },
   "repository": {},
   "engines": {
