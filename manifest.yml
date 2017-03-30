@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: eosdk
-  host: eosdk
+  name: JpeterkDemoApp
+  host: JpeterkDemoApp
   disk_quota: 1024M
